@@ -1,0 +1,2 @@
+# Bonjour. Comment vas-tu?
+# Il s’agit d’un fichier de test de traduction.
